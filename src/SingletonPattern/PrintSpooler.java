@@ -4,7 +4,7 @@ public class PrintSpooler {
 
     private static PrintSpooler instance;
 
-    // constructor private
+  
     private PrintSpooler() {
         init();
     }
