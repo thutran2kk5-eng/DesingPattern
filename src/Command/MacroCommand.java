@@ -1,8 +1,5 @@
 package Command;
 
-
-import java.util.Stack;
-
 public class MacroCommand implements Command {
     private Command[] commands;
 
